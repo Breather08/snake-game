@@ -4,6 +4,6 @@ Project using Vite which requires Node.js version 14.18+, 16+. However, some tem
 
 ### Start dev server
 ```sh
-    npm i
-    npm run dev
+npm i
+npm run dev
 ```
